@@ -1,0 +1,13 @@
+### DataTypes for xml watchfaces ###
+
+Originally posted here -> https://forum.xda-developers.com/smartwatch/amazfit/how-to-make-watch-amazfit-t3571751
+1 -> step
+2 -> today distance
+3 -> total distance 
+4 -> calories 
+5 -> heart rate
+6 -> date
+10 -> battery
+8 -> weather
+9 -> air quality
+11 -> ?
